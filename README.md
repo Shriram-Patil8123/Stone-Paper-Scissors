@@ -34,3 +34,5 @@ A simple and fun Stone Paper Scissors game built using HTML, CSS, and JavaScript
 
 - ## ✨ Screenshots
 
+- https://github.com/Shriram-Patil8123/Stone-Paper-Scissors/blob/0012614aa73c95c84782fca39d97b339f4c0a1fb/Screenshot1.png
+
